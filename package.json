@@ -1,0 +1,26 @@
+{
+  "name": "os-downloads",
+  "version": "1.0.0",
+  "description": "Look up downloads directory specific to different operating systems.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/piroz/os-downloads.git"
+  },
+  "keywords": [
+    "environment",
+    "downloads"
+  ],
+  "author": "piroz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/piroz/os-downloads/issues"
+  },
+  "homepage": "https://github.com/piroz/os-downloads#readme",
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  }
+}
