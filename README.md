@@ -1,4 +1,4 @@
-# os-downloads
+# os-downloads [![Build Status](https://travis-ci.org/piroz/os-downloads.svg?branch=master)](https://travis-ci.org/piroz/os-downloads)
 Look up downloads directory specific to different operating systems.
 
 # Install
