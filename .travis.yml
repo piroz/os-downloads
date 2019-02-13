@@ -1,12 +1,11 @@
 language: node_js
 node_js:
+  - "4"
   - "6"
-  - "10"
   - "11"
 os:
   - osx
   - windows
-  - linux
 cache:
   timeout: 600
   directories:
