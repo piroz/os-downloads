@@ -1,8 +1,8 @@
 const path = require('path');
 const os = require("os");
 
-function downlaods() {
+function downloads() {
     return path.join(os.homedir(), "Downloads");
 }
 
-module.exports = downlaods;
+module.exports = downloads;
